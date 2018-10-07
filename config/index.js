@@ -8,8 +8,8 @@ module.exports = {
   dev: {
 
     // Paths
-    assetsSubDirectory: 'static',
-    assetsPublicPath: './',
+    assetsSubDirectory: 'resume-demo/dist',
+    assetsPublicPath: '/',
     proxyTable: {},
 
     // Various Dev Server settings
