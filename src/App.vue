@@ -102,27 +102,7 @@
             .resumeEditor h2{
               display: inline-block;
               border-bottom: 1px solid;
-              margin: 1px 0 1px;
-            }
-            .resumeEditor ul,.resumeEditor ol{
-              list-style: none;
-            }
-            .resumeEditor ul> li::before{
-              content: '•';
-              margin-right: 1px;
-            }
-            .resumeEditor ol {
-              counter-reset: section;
-            }
-            .resumeEditor ol li::before {
-              counter-increment: section;
-              content: counters(section, ".");
-              margin-right: 1px;
-            }
-            .resumeEditor blockquote {
-              margin: 1px;
-              padding: 1px;
-              background: #ddd;
+              margin: 5px 15px 5px;
             }
             `],
                     currentMarkdown: '',
