@@ -42,8 +42,8 @@
               border: 1px solid;
               margin: 1px;
               overflow: auto;
-              width: 500px; 
-              height: 600px;
+              width: 40vw; 
+              height: 65vh;
             }
             /* 代码颜色太单调了，为代码加点高亮吧 */
             .token.selector{ 
@@ -78,8 +78,8 @@
               top: 0;
               padding: 1px;  
               margin: 1px;
-              width: 500px; 
-              height: 600px;
+              width: 40vw; 
+              height: 65vh;
               border: 1px solid;
               background: white; 
               color: #222;
